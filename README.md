@@ -6,7 +6,7 @@ The Google Search Clone project was built using React.js for the front-end, and 
 A JavaScript library for building user interfaces.
 Used for creating a modular and reusable component-based structure.
 
-##API Used:
+## API Used:
 ### Google Custom Search JSON API:
 A web search service provided by Google that allows developers to retrieve web and image search results.
 Requires an API key for authentication.
