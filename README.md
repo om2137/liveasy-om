@@ -1,5 +1,5 @@
 # React Js Google Clone 
-The Google Search Clone project was built using React.js and Tailwind CSS for the front-end, and it leveraged the Google Custom Search JSON API for search functionality. Below is a brief overview of the technologies and APIs used in the project:
+The Google Search Clone project was built using React.js for the front-end, and it leveraged the Google Custom Search JSON API for search functionality. Below is a brief overview of the technologies and APIs used in the project:
 ## Technologies Used:
 ### React.js:
 
